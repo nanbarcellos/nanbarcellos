@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nanbarcellos
+- 👀 I’m interested in  front-end development
+- 🌱 I’m currently learning ReactJS, NodeJS and NextJS
+- 💞️ I’m looking to collaborate on front-end projects
+- 📫 How to reach me- Linkedin (https://www.linkedin.com/in/ananda-barcellos-9260aa1b3/) or e-mail (anandabarcellosm@hotmail.com)
